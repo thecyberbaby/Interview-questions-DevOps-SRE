@@ -1,5 +1,3 @@
-# Interview-Questions-DevOps-SRE
-
 # Interview Question DevOps SRE
 
 Welcome to the **Interview Questions DevOps SRE** repository! This repo contains a collection of  interview questions and topics that every aspiring **DevOps Engineer** and **Site Reliability Engineer (SRE)** should prepare for. The questions are categorized by different DevOps topics including Linux, Git, Ansible, Terraform, AWS, CI/CD, Kubernetes, and Docker.
